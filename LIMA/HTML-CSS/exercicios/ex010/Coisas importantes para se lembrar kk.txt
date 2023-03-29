@@ -1,0 +1,7 @@
+<a></a> = anchor == Ancora. O a vem de ancora
+
+href = hyper text reference == referencia hyper texto 
+
+rel == relative == relativo a ''external''. relativo a ''next''
+
+target = target == alvo. _blank

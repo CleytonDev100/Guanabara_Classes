@@ -1,0 +1,2 @@
+Para adicionar o favicon da pagina:	
+	link:favicon

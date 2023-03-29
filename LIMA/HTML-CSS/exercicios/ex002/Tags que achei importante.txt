@@ -1,0 +1,5 @@
+Puladores de linha
+	<br> - Pula uma linha
+	<hr> - Pula uma linha e faz uma linha
+Simbolos Bonitinhos:
+	&empty

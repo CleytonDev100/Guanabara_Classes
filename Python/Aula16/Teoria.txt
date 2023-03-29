@@ -1,0 +1,10 @@
+Existem 2 tipos de variaveis, simples e compostas.
+
+Variaveis simples são as mais comuns, elas so conseguem alocar em sua memoria, 1 indice, o indice 0. lanche = 'Hamburger'
+
+A unica diferença entre as duas é que a variavel composta, pode ALOCAR mais de um espaço na memória, mais de um indice...
+
+Uma das variaveis composta do PYTHON é a TUPLA, categorizada por parenteses().
+
+NUNCA SE ESQUEÇA QUE, "TUPLAS SÃO IMUTÁVEIS"
+

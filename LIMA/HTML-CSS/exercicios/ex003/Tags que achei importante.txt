@@ -1,0 +1,3 @@
+Colocar imagem no site:
+	<img src="imagem qualquer" alt="Foto do Baki"/>
+E tbm tem o Gimp...

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 class="OK">Iniciação ao <strong>DOM</strong></h1>
+    <p>Aprendendo a usar DOM em js</p>
+    <div id="div"><p>Essa é a minha div</p></div>
+
+    <script>
+        var corpo = document.body
+        corpo.style.background = "blue"
+        document.write("Olá, mundo!<br>")
+
+        var div = document.getElementById("div")
+        div.style.background = "green"
+        div.innerText = "Eu mudei o texto"
+    </script>
+</body>
+</html>

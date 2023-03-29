@@ -1,0 +1,21 @@
+Negrito:
+	<strong>TEXTO EM NEGRITO</strong>
+Italico:
+	<em>TEXTO EM ITALICO</em>
+Marcador:
+	<mark>TEXTO MARCADO</mark>
+Pequeno e grande:
+	Grande:
+		<big>TEXTO GRANDE</big>
+	Pequeno:
+		<small>texto pequeno</small> (ESSE É MAIS IMPORTANTE)
+Riscado e sublinhado:
+	Riscado:
+		<del>TEXTO RISCADO</del>
+	Sublinhado:
+		<ins>TEXTO SUBLINHADO</ins>
+Numeros elevados e formulas quimicas:
+	Elevados
+		<p>x<sup>20</sup></p> = sup = numero Emcima
+	formulas:
+		<p>H<sub>2<sub>O</p> = sub = numero Embaixo

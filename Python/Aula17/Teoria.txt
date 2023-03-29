@@ -1,0 +1,47 @@
+Para resumir, a LISTA é como uma tupla, porém ela é mutavel. 
+
+É possivel mudar uma LISTA, ja tuplas são IMUTAVEIS.
+
+Declarando uma lista:
+	É so usar os []
+
+Comandos que achei importante:
+
+	Colocar ITENS em uma lista:
+	
+		append: Na teoria parece facil colocar um novo elemento na lista, porém não é so simplismente colocar um:
+				lista = ['Hamburger']
+				lista[1] = 'Refrigerante'
+				lista == ['Hamburger']
+			Isso não funciona, o certo é usar o append.
+				lista = ['Hamburger']
+				lista.append('Refrigerante')	
+				lista == ['Hamburger', 'Refrigerante']
+	
+		insert: Assim como o append, insere um novo elemento a lista, porém com o insert é possivel digitar em qual indice
+			esse novo elemento vai ficar.
+				lista = ['Hamburger']
+				lista = lista.insert(0,'Cachorro quente')
+				lista == ['Cachorro quente', 'Hamburger')
+	
+	Remover ITENS de uma lista:
+
+		del: Com ele é possivel apagar a lista INTEIRA, ou simplesmente apagar um indice na lista:
+				lista = ['Hamburger', 'Cachorro Quente']
+				del lista
+					### Apaga a lista inteira
+				lista = ['Hamburger', 'Cachorro Quente']
+				del lista[0]
+					###Apaga o indice 0
+		
+		pop: É mas usado para remover o ultimo indice da lista, porém se passado o parametro (indice) desejado,
+		     ele pode apagar.
+				lista = ['Hamburger', 'Cachorro Quente'] 		
+				lista.pop(1)
+				lista == ['Hamburger']
+		
+		remove: Se parar para pensar, os outros métodos removem pelo numero do indice, o remove, remove pelo con
+			teudo, ou seja, o nome que o indice recebe
+				lista = ['Hamburger', 'Cachorro Quente']
+				lista.remove('Hamburger')
+				lista == ['Cachorro Quente']				

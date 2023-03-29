@@ -1,0 +1,41 @@
+Aprendemos a colocar cor no terminal.
+
+com o codigo \033[stryle;text;background;m
+
+o primeiro ''stryle'' é o estilo da letra:
+
+representado pelos numeros:
+
+0 = cor normal
+
+1 = negrito
+
+4 = sublinhado
+
+7 = troca o fundo pela cor da letra
+
+o segundo ''text'' é a cor das letras:
+
+representado pelos numeros:
+
+30 = branca
+31 = vermelho
+32 = verde 
+33 = amarela
+34 =  azul
+35 = roxo
+36 =ciano
+37 = cinza
+
+o segundo ''back'' é o background:
+
+representado pelos numeros:
+
+40 = branca
+41 = vermelho
+42 = verde 
+43 = amarela
+44 =  azul
+45 = roxo
+46 =ciano
+47 = cinza

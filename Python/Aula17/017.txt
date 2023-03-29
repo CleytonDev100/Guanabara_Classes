@@ -1,0 +1,30 @@
+Teoria:
+
+Tivemos uma breve revisão sobre as tuplas, que são, basicamente, variaveis compostas.
+
+Listas são reconhecidas por : []. (colchetes)
+
+Diferente de Tuplas, as listas são mutaveis, então, é sim possivel mudar qualquer inidice dentro dela. E tambem é possivel adicionar novos indices, com dois comandos appeend e insert.
+
+É possivel remover indices de listas com 3 comandos, del, pop e remove
+
+Comandos aprendidos:
+
+append:Adiciona novos indices em uma lista
+
+insert:Adiciona novos itens em qual indice você quiser. EX:lanche.insert(0,'Cookie'). (insira em lanche na posição 0 o Cookie
+
+del:Comumente usado para apagar por completo uma variavel, porém, se usado com o fatiamente, ele exclui somente um indice. EX:del lanche[3]
+
+pop:Se não for usado com o fatiamente, sempre apaga o ultimo indice da lista, porém se usado com fatiamento apaga o indice alegado. EX:lanche.pop[3]
+
+remove:Apaga o item da lista não por indice, e sim, por valor. EX:lanche.remove('pizza')
+
+sort:Ordena os valores do, menor a o maior, em uma lista
+
+sort(reverse):Ordena os valores, do maior a o maior, de uma lista. EX:lista.sort(reverse=True)
+
+list:Declara que aquilo é uma lista. EX: valor = list.ranged(4,11). Faz uma lista do 4 a o 10.
+
+extended:Dobra a lista
+

@@ -1,0 +1,10 @@
+<q></q> = quote == citação em inglês
+<p>Segundo Paulo Plínio: <q>Red Beiramar é seu namorado</q></p>
+
+<blockquote></blockquote> = blockquote == bloco de citação em inglês
+<blockquote cite = youtube.com>
+	No video tatatattata
+</blockquote>
+
+<abbr></abbr> = abbreviation == abreviação em inglês
+<p>Sou amigo do <abbr title="João Pedro"JP</abbr>

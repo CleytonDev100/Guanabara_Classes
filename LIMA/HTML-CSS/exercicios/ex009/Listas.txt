@@ -1,0 +1,17 @@
+Listas Organizadas / Numerais:
+	<ol></ol> = Organized List == Lista Organizada / Lista Numeral.
+
+	<li></li> = list icon == Item da lista / Icone da lista.
+
+Listas Desorganizadas / Sem sequencia:
+	<ul></ul> = Urganized list == Lista desorganizada/ Lista sem sequencia.
+
+	<li></li> = list icon == Item da lista / Icone da lista.
+
+Listas de definição:
+	<dl></dl> = Defination list == Lista de definição.
+	
+	<dt></dt> = Defination Term == Definição de termo.
+
+	<dd></dd> = Defination descrition== Definição de descrição.
+
